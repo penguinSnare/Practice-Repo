@@ -1,0 +1,1 @@
+This is really an exercise to learn how to use Git effectively, if this was posted then that means I'm currently succeeding in mastering Git(eventually).
